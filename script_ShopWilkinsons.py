@@ -55,8 +55,6 @@ try:
 
 					print(f"Url #{count} found.")
 
-				if count == 3:
-					break
 			else:
 				all_url_products.append('Not found')
 				count += 1
